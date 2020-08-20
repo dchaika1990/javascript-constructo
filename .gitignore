@@ -1,0 +1,5 @@
+/assets/css/min/*
+/assets/js/min/*
+node_modules/*
+dist/*
+.idea/*
